@@ -1,0 +1,53 @@
+/* /Layout/Education.razor.rz.scp.css */
+h2[b-j2y3x4corb] {
+    margin: 0 0 2rem 0;
+}
+
+p[b-j2y3x4corb] {
+    margin: 0.5rem 0;
+}
+
+a[b-j2y3x4corb] {
+    font-weight: bold;
+}
+/* /Layout/Experience.razor.rz.scp.css */
+h2[b-l171rkv0kj] {
+    margin: 0 0 2rem 0;
+}
+
+p[b-l171rkv0kj] {
+    margin: 0.5rem 0;
+}
+
+a[b-l171rkv0kj] {
+    font-weight: bold;
+}
+/* /Layout/Header.razor.rz.scp.css */
+h2[b-hdmre9tkf8] {
+    margin: 0 0 2rem 0;
+}
+
+p[b-hdmre9tkf8] {
+    margin: 0.5rem 0;
+}
+
+a[b-hdmre9tkf8] {
+    font-weight: bold;
+}
+
+.image[b-hdmre9tkf8] {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+img[b-hdmre9tkf8] {
+    border-radius: 50%;
+    width: 40%;
+}
+/* /Layout/MainLayout.razor.rz.scp.css */
+div[b-5383j6hyu8] {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 5rem;
+}

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400&family=Roboto:wght@300&display=swap');
+
+html, body {
+    padding: 1.4rem 0.7rem;
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+    line-height: 110%;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.4rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+    font-size: 9vw;
+}
+
+h2 {
+    font-size: 6vw;
+    text-transform: uppercase;
+}
+
+:root {
+    --text-gradient: linear-gradient(45deg, #808, #33D, #0BC);
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gradient {
+    display: inline-block;
+    background: var(--text-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
